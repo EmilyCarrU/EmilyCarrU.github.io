@@ -1,4 +1,4 @@
-# [Peter Dinklage](http://www.imdb.com/name/nm0227759/)	
+# [Peter Dinklage](http://www.imdb.com/name/nm0227759/)	:trollface:
 ## aka Tyrion Lannister
 Peter Hayden Dinklage was born in Morristown, New Jersey, to Diane (Hayden), an elementary school teacher, and John Carl Dinklage, an insurance salesman. He is of German, Irish, and English descent.
 
