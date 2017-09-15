@@ -1,1 +1,1 @@
-* [Contiune](https://emilycarru.github.io/CEIE-150/resumes)
+* [Continue](https://emilycarru.github.io/CEIE-150/resumes)
