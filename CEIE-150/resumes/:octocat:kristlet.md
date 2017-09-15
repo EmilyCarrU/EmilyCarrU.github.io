@@ -1,4 +1,4 @@
-#Christopher Walken
+# Christopher Walken
 ## Seriously Sexy Actor
 
 Nervous-looking lead and supporting actor of the American stage and films, with sandy coloured hair, pale complexion and a somewhat nervous disposition. **He won an Oscar as Best Supporting Actor** for his performance in The Deer Hunter (1978), and has been seen in mostly supporting roles, often portraying psychologically unstable characters, though that generalization would not do justice to Walken's depth and breadth of performances.
