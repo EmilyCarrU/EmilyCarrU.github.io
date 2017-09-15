@@ -36,6 +36,7 @@ Walken has said,
 4.  A Business Affair
 
 
-`ducks are awesome`
+`Christopher Walken is probably a squirrel`
 
 :neckbeard: <---Not Chrisopher Walken
+:squirrel:  <---This definitely is
