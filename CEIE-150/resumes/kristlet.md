@@ -41,4 +41,3 @@ Walken has said,
 :neckbeard: <---Not Chrisopher Walken
 :squirrel:  <---This definitely is
 
-/play trololo
