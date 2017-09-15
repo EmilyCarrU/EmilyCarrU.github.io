@@ -24,8 +24,21 @@
 <body>
 <div class="reveal">
     <div class="slides">
-        <section>Slide 1</section>
-        <section>Slide 2</section>
+        <section data-markdown>
+            <textarea data-template>
+                ## Markdown Sample
+
+                Markdown may be written inside a web slideshow and converted to HTML for the browser
+            </textarea>
+        </section>
+        <section data-markdown="assets/markdown/html.md"
+                 data-separator="^\n\n\n"
+                 data-separator-vertical="^\n\n"
+                 data-separator-notes="^Note:"
+                 data-charset="iso-8859-15">
+        </section>
+        <section data-markdown="assets/markdown/css.md"></section>
+        <section data-markdown="assets/markdown/js.md" />
     </div>
 </div>
 
