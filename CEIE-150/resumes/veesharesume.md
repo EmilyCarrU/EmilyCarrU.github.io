@@ -1,5 +1,4 @@
 # Clive Owen
-<comment>
 
 ## Actor
 
