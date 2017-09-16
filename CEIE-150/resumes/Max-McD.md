@@ -7,15 +7,15 @@ Known for his breakthrough starring role on **Freaks and Geeks (1999)**, James F
 
 ## Filmology
 * [Arctic Justice](http://www.imdb.com/title/tt4426464/?ref_=fn_al_tt_1)
-* Next Gen
-* Pretenders
-* The Ballad of Buster Scruggs
-* Zeroville
-* Blood Ride
-* Ozara and Katessa
-* The Heyday of the Insensitive Bastards
-* The Long Home
-* Future World 
+* [Next Gen](http://www.imdb.com/title/tt0092455/)
+* [Pretenders](http://www.imdb.com/title/tt0115320/)
+* [The Ballad of Buster Scruggs](http://www.imdb.com/title/tt6412452/)
+* [Zeroville](http://www.imdb.com/title/tt1881109/?ref_=fn_al_tt_1)
+* [Blood Ride](http://www.imdb.com/title/tt6014408/?ref_=fn_al_tt_1)
+* [Ozara and Katessa](http://www.imdb.com/title/tt7227516/?ref_=fn_al_tt_1)
+* [The Heyday of the Insensitive Bastards](http://www.imdb.com/title/tt4076926/?ref_=fn_al_tt_1)
+* [The Long Home](http://www.imdb.com/title/tt4585910/?ref_=fn_al_tt_1)
+* [Future World](http://www.imdb.com/title/tt5737536/?ref_=fn_al_tt_1) 
 
 
 ### Max's Picks
