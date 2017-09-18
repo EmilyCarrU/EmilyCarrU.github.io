@@ -1,1 +1,6 @@
-* [Continue](https://emilycarru.github.io/CEIE-150/resumes)
+# Emily Carr University of Art and Design
+
+## Courses
+### CEIE-150
+
+* [Resumes](./resumes)
