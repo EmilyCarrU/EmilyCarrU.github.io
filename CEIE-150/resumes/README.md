@@ -2,6 +2,7 @@
 
 ## Courses
 ### CEIE-150
+#### Resumes
 
 * [ChristinaLoeffler.md](ChristinaLoeffler.md)
 * [Max-McD.md](Max-McD.md)
