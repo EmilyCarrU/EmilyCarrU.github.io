@@ -1,11 +1,10 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head><!--Invisible Content for machines like web crawler and browsers>
+  <head><!--Invisible Content for machines like web crawler and browsers -->
   <title> Christina's cool site </title> <!--- SEO Important -->
   
   <!--- Tags to generate Twitter previews --->
   <meta name="twitter:card" content="summary_large_image">
- <meta name="twitter:creator" content="@therykka">
  <meta name="twitter:title" content="Christina's cool site">
  <meta name="twitter:description" content="NEWARK - Cute Puppy!">
  <meta name="twitter:image"https://www.google.ca/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=0ahUKEwiYlePd8bnWAhVE_mMKHUJFAewQjRwIBw&url=http%3A%2F%2Fmarkhamac.com%2Fwellness-plans%2Fpuppy-wellness-plans.html&psig=AFQjCNGENLRHqJTlVZz9cbztQTYAMOSXig&ust=1506207328730117">
